@@ -1,0 +1,36 @@
+TEST PLAN SUMMARY OR OBEJECTIVE
+This test plan focuses on risk based area of the system not the entire workflow or functionality of the system. The main focus will be on the critical parts of the system with higher priority and severity that will disrupt the normal workflow of a user or the intended functionality
+
+SCOPE OF TESTING 
+scope of testing will basically cover what will be tested and what will be not tested covered during this testing phase
+
+IN SCOPE: what will be tested completely in this testing phase
+risk based functionalities 
+fuctional requirements
+API testing or validations (Network Tab)
+
+
+
+OUT OF SCOPE: What will not be tested in this testing phase
+Performance Testing
+Special security testing
+
+
+TEST STRATEGY 
+Testing will be focused on functionalities of the system which is the risk based areas.
+Smoke Testing
+Happy path testing
+Postive and negative edge cases
+
+ENVIRONMENT AND COMMUNICATION TOOLS
+Local run
+Microsoft Edge
+Bug report
+Google Meet
+
+TEST SCENARIOS 
+AUTHENTICATION/SECURITY: Check User passwords are secured and not returned by the projects and Task API
+
+sql injections Chec
+happy paths
+negative user workflows
